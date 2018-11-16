@@ -4,7 +4,7 @@
 
 ## Setup
 
-```sh
+```shdsd
 # Install dependencies
 npm install
 
