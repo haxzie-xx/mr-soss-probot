@@ -5,7 +5,7 @@
 ## Setup
 
 ```sh
-# Install dependencies
+# Install dependenciessss
 npm install
 
 # Run the bot
