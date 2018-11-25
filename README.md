@@ -9,6 +9,7 @@ npm install
 
 # Run the bot
 npm start
+
 ```
 
 ## Contributing
